@@ -1,0 +1,123 @@
+{
+  "name": "sagar aryal",
+  "email": "sagararyal248@gmail.com",
+  "phone_number": "9761882088",
+  "address": "sankhamul , kathmandu",
+  "linkedin_url": "https://www.linkedin.com/in/sagar-aryal",
+  "git_url": "https://github.com/iamsagar14",
+  "position": "computer engineer",
+  "work_experience": [
+    {
+      "job_title": "mobile application developer",
+      "company_name": "prixa technologies",
+      "start_date": "may, 2023",
+      "end_date": "present",
+      "responsibilities": [
+        "working as a cross-platform mobile and display technology application developer in the mobile apps development team at prixa technologies."
+      ]
+    },
+    {
+      "job_title": "mobile application developer",
+      "company_name": "whive it professional",
+      "start_date": "oct, 2022",
+      "end_date": "apr, 2023",
+      "responsibilities": [
+        "contributed to cross-platform mobile app development by implementing ui designs, integrating apis, and optimizing performance. collaborated with the team to meet deadlines and ensure app functionality across devices"
+      ]
+    },
+    {
+      "job_title": "flutter trainee",
+      "company_name": "allpasal",
+      "start_date": "apr, 2022",
+      "end_date": "aug, 2022",
+      "responsibilities": [
+        "worked as a flutter trainee in the mobile apps development team at all pasal. completed traineeship with a core focus on uikit, mvc, and combined framework"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "bachelor in computer engineering",
+      "institution": "himalaya college of engineering",
+      "start_date": "aug, 2017",
+      "end_date": "jun, 2022",
+      "grade": null
+    },
+    {
+      "degree": "+2",
+      "institution": "new horizon college",
+      "start_date": "may, 2015",
+      "end_date": "mar, 2017",
+      "grade": null
+    },
+    {
+      "degree": "slc",
+      "institution": "new environment higher secondary school",
+      "start_date": "apr, 2013",
+      "end_date": "mar, 2015",
+      "grade": null
+    }
+  ],
+  "certifications": [
+    {
+      "certification_name": "html,css,kotlin,java",
+      "issuing_organization": "himalaya college of engineering",
+      "issue_date": "2018"
+    }
+  ],
+  "skills": [
+    "c",
+    "c++",
+    "dart",
+    "java",
+    "flutter",
+    "clean architecture",
+    "getx",
+    "provider",
+    "bloc",
+    "firebase services",
+    "rest api",
+    "socket",
+    "dependency injection",
+    "sqlite",
+    "hive",
+    "sharepreference",
+    "fluttersecurestorage",
+    "biometrics verification",
+    "qr scan",
+    "googlesignin",
+    "facebooksignin",
+    "payment integration",
+    "animations",
+    "testing and debugging",
+    "html",
+    "css",
+    "ui/ux design",
+    "figma"
+  ],
+  "programming_languages": ["c", "c++", "dart", "java", "flutter"],
+  "technical_projects": [
+    {
+      "project_name": "social media application-yeptik",
+      "description": "yetik is a social media app that enables users to create and share videos with the public. users can also follow others on the platform to stay updated with their latest posts",
+      "programming_language": ["flutter", "dart"],
+      "project_link": "https://url"
+    },
+    {
+      "project_name": "therapist app-rxpin",
+      "description": "rx pin is a compassionate mobile app designed for individuals struggling with anxiety, depression, and other mental health challenges. it offers a platform for connecting with therapists and mental health professionals, providing a safe space for support, guidance, and personalized treatment plans. with rx pin",
+      "programming_language": ["flutter", "dart"],
+      "project_link": "https://url"
+    },
+    {
+      "project_name": "jobportal-jobkunja",
+      "description": "job kunja: your gateway to job vacancies. explore, apply, and stay updated effortlessly",
+      "programming_language": ["flutter", "dart"],
+      "project_link": null
+    }
+  ],
+  "research_papers": null,
+  "languages": ["nepali", "english", "hindi"],
+  "hobbies": null,
+  "references": null
+}
